@@ -1,0 +1,1 @@
+python train.py --data ./data/mchar.yaml --cfg yolov5s_mchar.yaml --epochs 10 --batch-size 16 --weights ./weights/yolov5s.pt

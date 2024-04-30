@@ -1,0 +1,1 @@
+python detect.py --weights ./runs/train/exp10/weights/best.pt  --source ./dataset/images/mchar_test_a --save-txt
